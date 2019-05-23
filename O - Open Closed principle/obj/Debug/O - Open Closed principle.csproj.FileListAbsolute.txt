@@ -1,0 +1,10 @@
+C:\Projects\S.O.L.I.D\O - Open Closed principle\bin\Debug\O - Open Closed principle.exe.config
+C:\Projects\S.O.L.I.D\O - Open Closed principle\bin\Debug\O - Open Closed principle.exe
+C:\Projects\S.O.L.I.D\O - Open Closed principle\bin\Debug\O - Open Closed principle.pdb
+C:\Projects\S.O.L.I.D\O - Open Closed principle\bin\Debug\OCPLibrary.dll
+C:\Projects\S.O.L.I.D\O - Open Closed principle\bin\Debug\OCPLibrary.pdb
+C:\Projects\S.O.L.I.D\O - Open Closed principle\obj\Debug\O - Open Closed principle.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\O - Open Closed principle\obj\Debug\O - Open Closed principle.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\O - Open Closed principle\obj\Debug\O - Open Closed principle.csproj.CopyComplete
+C:\Projects\S.O.L.I.D\O - Open Closed principle\obj\Debug\O - Open Closed principle.exe
+C:\Projects\S.O.L.I.D\O - Open Closed principle\obj\Debug\O - Open Closed principle.pdb

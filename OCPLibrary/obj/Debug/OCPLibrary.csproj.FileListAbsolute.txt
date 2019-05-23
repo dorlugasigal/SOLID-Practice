@@ -1,0 +1,6 @@
+C:\Projects\S.O.L.I.D\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Projects\S.O.L.I.D\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Projects\S.O.L.I.D\OCPLibrary\obj\Debug\OCPLibrary.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Projects\S.O.L.I.D\OCPLibrary\obj\Debug\OCPLibrary.pdb
