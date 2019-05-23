@@ -8,19 +8,18 @@ namespace O___Open_Closed_principle
     {
         static void Main(string[] args)
         {
-            List<PersonModel> applicants = new List<PersonModel>
+            List<IApplicantModel> applicants = new List<IApplicantModel>
             {
                 new PersonModel {FirstName = "Tim", LastName = "Corey"},
-                new PersonModel {FirstName = "Dor", LastName = "Lugasi" ,TypeOfEmployee=EmployeeType.Manager},
-                new PersonModel {FirstName = "Polina", LastName = "Bogatikov", TypeOfEmployee=EmployeeType.Executive},
+                new ManagerModel {FirstName = "Dor", LastName = "Lugasi" },
+                new ExecutiveModel {FirstName = "Polina", LastName = "Bogatikov"},
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
-            Accounts accountProcessor = new Accounts();
 
             foreach (var person in applicants)
             {
-                employees.Add(accountProcessor.Create(person));
+                employees.Add(person.AccountProcessor.Create(person));
             }
             foreach (var emp in employees)
             {
