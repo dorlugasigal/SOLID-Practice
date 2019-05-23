@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OCPLibrary;
+using System;
 using System.Collections.Generic;
 
 namespace O___Open_Closed_principle
@@ -10,8 +11,8 @@ namespace O___Open_Closed_principle
             List<PersonModel> applicants = new List<PersonModel>
             {
                 new PersonModel {FirstName = "Tim", LastName = "Corey"},
-                new PersonModel {FirstName = "Dor", LastName = "Lugasi"},
-                new PersonModel {FirstName = "Polina", LastName = "Bogatikov"},
+                new PersonModel {FirstName = "Dor", LastName = "Lugasi" ,TypeOfEmployee=EmployeeType.Manager},
+                new PersonModel {FirstName = "Polina", LastName = "Bogatikov", TypeOfEmployee=EmployeeType.Executive},
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
@@ -23,7 +24,7 @@ namespace O___Open_Closed_principle
             }
             foreach (var emp in employees)
             {
-                Console.WriteLine($"{emp.FirstName} {emp.LastName}: {emp.EmailAddress}");
+                Console.WriteLine($"{emp.FirstName} {emp.LastName}: {emp.EmailAddress} IsManager: {emp.IsManager}, IsExecutive: {emp.IsExecutive}");
             }
 
             Console.ReadLine();
