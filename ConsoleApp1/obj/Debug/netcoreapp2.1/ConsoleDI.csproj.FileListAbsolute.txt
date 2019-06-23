@@ -1,0 +1,14 @@
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleDI.deps.json
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleDI.runtimeconfig.json
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleDI.runtimeconfig.dev.json
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleDI.dll
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleDI.pdb
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\DILibrary.dll
+C:\Projects\S.O.L.I.D\ConsoleApp1\bin\Debug\netcoreapp2.1\DILibrary.pdb
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.csproj.CopyComplete
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.dll
+C:\Projects\S.O.L.I.D\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleDI.pdb

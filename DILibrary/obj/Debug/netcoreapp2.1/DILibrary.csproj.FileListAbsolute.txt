@@ -1,0 +1,8 @@
+C:\Projects\S.O.L.I.D\DILibrary\bin\Debug\netcoreapp2.1\DILibrary.deps.json
+C:\Projects\S.O.L.I.D\DILibrary\bin\Debug\netcoreapp2.1\DILibrary.dll
+C:\Projects\S.O.L.I.D\DILibrary\bin\Debug\netcoreapp2.1\DILibrary.pdb
+C:\Projects\S.O.L.I.D\DILibrary\obj\Debug\netcoreapp2.1\DILibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\DILibrary\obj\Debug\netcoreapp2.1\DILibrary.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\DILibrary\obj\Debug\netcoreapp2.1\DILibrary.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\DILibrary\obj\Debug\netcoreapp2.1\DILibrary.dll
+C:\Projects\S.O.L.I.D\DILibrary\obj\Debug\netcoreapp2.1\DILibrary.pdb
