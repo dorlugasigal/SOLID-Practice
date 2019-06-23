@@ -19,13 +19,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I", "I", "{42BC529E-9C07-41
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D", "D", "{D148BF1E-BD65-4727-BFC1-BC9F66E4BF52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{6752006D-2326-4325-9008-1E380A6A8169}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "DemoLibrary\ISPLibrary.csproj", "{6752006D-2326-4325-9008-1E380A6A8169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{23F93C3A-556B-4CF2-B231-3082C5A83397}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I -  Interface segregation principle", "ConsoleUI\I -  Interface segregation principle.csproj", "{23F93C3A-556B-4CF2-B231-3082C5A83397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DILibrary", "DILibrary\DILibrary.csproj", "{68074155-36CB-4F6B-A328-AA7B8BB1ED83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "DILibrary\DIPLibrary.csproj", "{68074155-36CB-4F6B-A328-AA7B8BB1ED83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDI", "ConsoleApp1\ConsoleDI.csproj", "{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D - Dependency inversion principle", "ConsoleApp1\D - Dependency inversion principle.csproj", "{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

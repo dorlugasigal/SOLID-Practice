@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+        "projectName": "I -  Interface segregation principle",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+        "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dorlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj": {
+                "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+        "projectName": "ISPLibrary",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+        "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dorlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
