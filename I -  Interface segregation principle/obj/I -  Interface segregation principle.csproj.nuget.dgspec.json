@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj": {}
+    "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj": {
+    "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj",
         "projectName": "I -  Interface segregation principle",
-        "projectPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj",
         "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj": {
-                "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj"
+              "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj": {
+                "projectPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj": {
+    "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj",
         "projectName": "ISPLibrary",
-        "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj",
         "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\obj\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

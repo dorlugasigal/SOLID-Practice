@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj",
       "projectName": "ISPLibrary",
-      "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj",
+      "projectPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj",
       "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\obj\\",
+      "outputPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

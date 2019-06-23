@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OCPLibrary\OCPLibrary.csproj">
+    <ProjectReference Include="..\O - OCPLibrary\OCPLibrary.csproj">
       <Project>{0d273e61-3a9e-458b-8e2c-e53b542dffc6}</Project>
       <Name>OCPLibrary</Name>
     </ProjectReference>

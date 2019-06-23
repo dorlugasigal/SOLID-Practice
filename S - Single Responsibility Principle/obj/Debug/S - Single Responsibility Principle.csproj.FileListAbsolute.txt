@@ -1,7 +1,6 @@
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\bin\Debug\S - Single Responsibility Principle.exe.config
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\bin\Debug\S - Single Responsibility Principle.exe
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\bin\Debug\S - Single Responsibility Principle.pdb
-C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\obj\Debug\S - Single Responsibility Principle.csprojAssemblyReference.cache
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\obj\Debug\S - Single Responsibility Principle.csproj.CoreCompileInputs.cache
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\obj\Debug\S - Single Responsibility Principle.exe
 C:\Projects\S.O.L.I.D\S - Single Responsibility Principle\obj\Debug\S - Single Responsibility Principle.pdb

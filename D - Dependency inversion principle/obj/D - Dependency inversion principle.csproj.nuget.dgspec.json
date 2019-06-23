@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\S.O.L.I.D\\ConsoleApp1\\D - Dependency inversion principle.csproj": {}
+    "C:\\Projects\\S.O.L.I.D\\D - Dependency inversion principle\\D - Dependency inversion principle.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\S.O.L.I.D\\ConsoleApp1\\D - Dependency inversion principle.csproj": {
+    "C:\\Projects\\S.O.L.I.D\\D - Dependency inversion principle\\D - Dependency inversion principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\ConsoleApp1\\D - Dependency inversion principle.csproj",
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\D - Dependency inversion principle\\D - Dependency inversion principle.csproj",
         "projectName": "D - Dependency inversion principle",
-        "projectPath": "C:\\Projects\\S.O.L.I.D\\ConsoleApp1\\D - Dependency inversion principle.csproj",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\D - Dependency inversion principle\\D - Dependency inversion principle.csproj",
         "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\S.O.L.I.D\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\D - Dependency inversion principle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj": {
-                "projectPath": "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj"
+              "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj": {
+                "projectPath": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj": {
+    "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj",
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj",
         "projectName": "DIPLibrary",
-        "projectPath": "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj",
         "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\S.O.L.I.D\\DILibrary\\obj\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

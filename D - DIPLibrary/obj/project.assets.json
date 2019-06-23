@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj",
+      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj",
       "projectName": "DIPLibrary",
-      "projectPath": "C:\\Projects\\S.O.L.I.D\\DILibrary\\DIPLibrary.csproj",
+      "projectPath": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\DIPLibrary.csproj",
       "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\S.O.L.I.D\\DILibrary\\obj\\",
+      "outputPath": "C:\\Projects\\S.O.L.I.D\\D - DIPLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

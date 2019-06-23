@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\S.O.L.I.D\\L - Liskov Substitution Principle\\L - Liskov Substitution Principle.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\S.O.L.I.D\\L - Liskov Substitution Principle\\L - Liskov Substitution Principle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\L - Liskov Substitution Principle\\L - Liskov Substitution Principle.csproj",
+        "projectName": "L - Liskov Substitution Principle",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\L - Liskov Substitution Principle\\L - Liskov Substitution Principle.csproj",
+        "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\L - Liskov Substitution Principle\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dorlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\L - LSPLibrary.csproj": {
+                "projectPath": "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\L - LSPLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\L - LSPLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\L - LSPLibrary.csproj",
+        "projectName": "L - LSPLibrary",
+        "projectPath": "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\L - LSPLibrary.csproj",
+        "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\S.O.L.I.D\\L - LSPLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dorlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

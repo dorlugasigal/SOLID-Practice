@@ -1,11 +1,12 @@
 ﻿using O___Open_Closed_principle;
+using OCPLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OCPLibrary
+namespace O___Open_Closed_principle
 {
     public class ManagerModel : IApplicantModel
     {

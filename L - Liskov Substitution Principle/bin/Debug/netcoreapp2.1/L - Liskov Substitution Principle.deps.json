@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "L - Liskov Substitution Principle/1.0.0": {
+        "runtime": {
+          "L - Liskov Substitution Principle.dll": {}
+        }
+      },
+      "L - LSPLibrary/1.0.0": {
+        "runtime": {
+          "L - LSPLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L - Liskov Substitution Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L - LSPLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\D - Dependency inversion principle.deps.json
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\D - Dependency inversion principle.runtimeconfig.json
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\D - Dependency inversion principle.runtimeconfig.dev.json
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\D - Dependency inversion principle.dll
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\D - Dependency inversion principle.pdb
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\DIPLibrary.dll
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\bin\Debug\netcoreapp2.1\DIPLibrary.pdb
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.csproj.CopyComplete
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.dll
+C:\Projects\S.O.L.I.D\D - Dependency inversion principle\obj\Debug\netcoreapp2.1\D - Dependency inversion principle.pdb

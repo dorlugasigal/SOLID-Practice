@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S - Single Responsibility P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O - Open Closed Principle", "O - Open Closed principle\O - Open Closed Principle.csproj", "{FED72AFD-8CB3-444E-98E9-A8F3EFBD379A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPLibrary", "OCPLibrary\OCPLibrary.csproj", "{0D273E61-3A9E-458B-8E2C-E53B542DFFC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPLibrary", "O - OCPLibrary\OCPLibrary.csproj", "{0D273E61-3A9E-458B-8E2C-E53B542DFFC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O", "O", "{02C63E6B-900F-485E-BAD8-5082B88D16B1}"
 EndProject
@@ -19,13 +19,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I", "I", "{42BC529E-9C07-41
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D", "D", "{D148BF1E-BD65-4727-BFC1-BC9F66E4BF52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "DemoLibrary\ISPLibrary.csproj", "{6752006D-2326-4325-9008-1E380A6A8169}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPLibrary", "I - ISPLibrary\ISPLibrary.csproj", "{6752006D-2326-4325-9008-1E380A6A8169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I -  Interface segregation principle", "ConsoleUI\I -  Interface segregation principle.csproj", "{23F93C3A-556B-4CF2-B231-3082C5A83397}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I -  Interface segregation principle", "I -  Interface segregation principle\I -  Interface segregation principle.csproj", "{23F93C3A-556B-4CF2-B231-3082C5A83397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "DILibrary\DIPLibrary.csproj", "{68074155-36CB-4F6B-A328-AA7B8BB1ED83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPLibrary", "D - DIPLibrary\DIPLibrary.csproj", "{68074155-36CB-4F6B-A328-AA7B8BB1ED83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D - Dependency inversion principle", "ConsoleApp1\D - Dependency inversion principle.csproj", "{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D - Dependency inversion principle", "D - Dependency inversion principle\D - Dependency inversion principle.csproj", "{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L - Liskov Substitution Principle", "L - Liskov Substitution Principle\L - Liskov Substitution Principle.csproj", "{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L - LSPLibrary", "L - LSPLibrary\L - LSPLibrary.csproj", "{53037E02-97A6-4C8C-A379-B725A463F77E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,14 @@ Global
 		{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53037E02-97A6-4C8C-A379-B725A463F77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53037E02-97A6-4C8C-A379-B725A463F77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53037E02-97A6-4C8C-A379-B725A463F77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53037E02-97A6-4C8C-A379-B725A463F77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +85,8 @@ Global
 		{23F93C3A-556B-4CF2-B231-3082C5A83397} = {42BC529E-9C07-419E-8A2B-FC0B766A51D9}
 		{68074155-36CB-4F6B-A328-AA7B8BB1ED83} = {D148BF1E-BD65-4727-BFC1-BC9F66E4BF52}
 		{AD13DF42-DEF2-47A9-A60C-7DB12A0A5A50} = {D148BF1E-BD65-4727-BFC1-BC9F66E4BF52}
+		{5E4034CA-D21A-400B-B158-C5F7D6C8AEC6} = {3DC3B9ED-CB5E-4E80-A21B-9CF871CDDCB7}
+		{53037E02-97A6-4C8C-A379-B725A463F77E} = {3DC3B9ED-CB5E-4E80-A21B-9CF871CDDCB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {249946CE-D347-41EC-A554-68E786BB7EE1}

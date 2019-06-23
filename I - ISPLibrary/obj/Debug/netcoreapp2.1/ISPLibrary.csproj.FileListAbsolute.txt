@@ -1,0 +1,9 @@
+C:\Projects\S.O.L.I.D\I - ISPLibrary\bin\Debug\netcoreapp2.1\ISPLibrary.deps.json
+C:\Projects\S.O.L.I.D\I - ISPLibrary\bin\Debug\netcoreapp2.1\ISPLibrary.dll
+C:\Projects\S.O.L.I.D\I - ISPLibrary\bin\Debug\netcoreapp2.1\ISPLibrary.pdb
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.dll
+C:\Projects\S.O.L.I.D\I - ISPLibrary\obj\Debug\netcoreapp2.1\ISPLibrary.pdb

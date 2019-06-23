@@ -693,8 +693,8 @@
     },
     "ISPLibrary/1.0.0": {
       "type": "project",
-      "path": "../DemoLibrary/ISPLibrary.csproj",
-      "msbuildProject": "../DemoLibrary/ISPLibrary.csproj"
+      "path": "../I - ISPLibrary/ISPLibrary.csproj",
+      "msbuildProject": "../I - ISPLibrary/ISPLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+      "projectUniqueName": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj",
       "projectName": "I -  Interface segregation principle",
-      "projectPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\I -  Interface segregation principle.csproj",
+      "projectPath": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\I -  Interface segregation principle.csproj",
       "packagesPath": "C:\\Users\\dorlu\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\S.O.L.I.D\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Projects\\S.O.L.I.D\\I -  Interface segregation principle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj": {
-              "projectPath": "C:\\Projects\\S.O.L.I.D\\DemoLibrary\\ISPLibrary.csproj"
+            "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj": {
+              "projectPath": "C:\\Projects\\S.O.L.I.D\\I - ISPLibrary\\ISPLibrary.csproj"
             }
           }
         }

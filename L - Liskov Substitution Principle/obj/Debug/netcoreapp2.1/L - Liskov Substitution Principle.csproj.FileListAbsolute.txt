@@ -1,0 +1,14 @@
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - Liskov Substitution Principle.deps.json
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - Liskov Substitution Principle.runtimeconfig.json
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - Liskov Substitution Principle.runtimeconfig.dev.json
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - Liskov Substitution Principle.dll
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - Liskov Substitution Principle.pdb
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - LSPLibrary.dll
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\bin\Debug\netcoreapp2.1\L - LSPLibrary.pdb
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.csproj.CopyComplete
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.dll
+C:\Projects\S.O.L.I.D\L - Liskov Substitution Principle\obj\Debug\netcoreapp2.1\L - Liskov Substitution Principle.pdb

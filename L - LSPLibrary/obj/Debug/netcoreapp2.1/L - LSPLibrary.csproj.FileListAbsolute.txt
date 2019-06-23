@@ -1,0 +1,9 @@
+C:\Projects\S.O.L.I.D\L - LSPLibrary\bin\Debug\netcoreapp2.1\L - LSPLibrary.deps.json
+C:\Projects\S.O.L.I.D\L - LSPLibrary\bin\Debug\netcoreapp2.1\L - LSPLibrary.dll
+C:\Projects\S.O.L.I.D\L - LSPLibrary\bin\Debug\netcoreapp2.1\L - LSPLibrary.pdb
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.dll
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.pdb
+C:\Projects\S.O.L.I.D\L - LSPLibrary\obj\Debug\netcoreapp2.1\L - LSPLibrary.csprojAssemblyReference.cache

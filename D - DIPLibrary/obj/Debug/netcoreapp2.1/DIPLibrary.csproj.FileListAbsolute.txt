@@ -1,0 +1,9 @@
+C:\Projects\S.O.L.I.D\D - DIPLibrary\bin\Debug\netcoreapp2.1\DIPLibrary.deps.json
+C:\Projects\S.O.L.I.D\D - DIPLibrary\bin\Debug\netcoreapp2.1\DIPLibrary.dll
+C:\Projects\S.O.L.I.D\D - DIPLibrary\bin\Debug\netcoreapp2.1\DIPLibrary.pdb
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.dll
+C:\Projects\S.O.L.I.D\D - DIPLibrary\obj\Debug\netcoreapp2.1\DIPLibrary.pdb

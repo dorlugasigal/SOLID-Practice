@@ -1,0 +1,14 @@
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\I -  Interface segregation principle.deps.json
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\I -  Interface segregation principle.runtimeconfig.json
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\I -  Interface segregation principle.runtimeconfig.dev.json
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\I -  Interface segregation principle.dll
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\I -  Interface segregation principle.pdb
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\ISPLibrary.dll
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\bin\Debug\netcoreapp2.1\ISPLibrary.pdb
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.csproj.CopyComplete
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.dll
+C:\Projects\S.O.L.I.D\I -  Interface segregation principle\obj\Debug\netcoreapp2.1\I -  Interface segregation principle.pdb
