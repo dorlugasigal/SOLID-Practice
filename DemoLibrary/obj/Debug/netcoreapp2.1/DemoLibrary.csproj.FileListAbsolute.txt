@@ -1,0 +1,9 @@
+C:\Projects\S.O.L.I.D\DemoLibrary\bin\Debug\netcoreapp2.1\DemoLibrary.deps.json
+C:\Projects\S.O.L.I.D\DemoLibrary\bin\Debug\netcoreapp2.1\DemoLibrary.dll
+C:\Projects\S.O.L.I.D\DemoLibrary\bin\Debug\netcoreapp2.1\DemoLibrary.pdb
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.csprojAssemblyReference.cache
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.AssemblyInfoInputs.cache
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.AssemblyInfo.cs
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.dll
+C:\Projects\S.O.L.I.D\DemoLibrary\obj\Debug\netcoreapp2.1\DemoLibrary.pdb
